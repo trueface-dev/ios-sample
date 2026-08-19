@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios-artifact",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/trueface-dev/ios-artifact.git",
+      "state" : {
+        "revision" : "0d67d6d12e4d3ac0d5dc30c58d881714b8821bcb",
+        "version" : "0.2.6"
+      }
+    }
+  ],
+  "version" : 2
+}
